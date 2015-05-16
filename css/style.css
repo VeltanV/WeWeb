@@ -2,9 +2,11 @@ nav{
 	background: red;
 	text-align: left;
 	color: yellow;
-	border: dashed;
+	/*border: dashed;*/
+	border-style: solid;
 }
 header{
+	margin-left: 400px;
 	text-align: center;
 	color:blue;
 	width: 100px;
@@ -18,7 +20,7 @@ h5 {
 }
 body{
 	width: 1000px;
-	
+
 	text-align: center;
 }
 footer{

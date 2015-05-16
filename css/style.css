@@ -1,14 +1,16 @@
-li{
-	display: inline
+nav.a{
+	display: inline;
+	width: 20px;
+	background: blue;
 }
-header{
-	vertical-align: top;
-	text-align: center;
-	color:blue;
-	width: 100px;
-	height: 50px;
+a{
+	background: red;
+	
 }
+h1{
+	/*text-align: left;*/
 
+}
 h5 {
 
 	background: blue;
@@ -21,4 +23,18 @@ body{
 }
 footer{
 	position: left;
+}
+#container{
+
+	width: 1000px;
+	height: 1000px;
+
+}
+#header{
+	width: 1000px;
+	height: 100px;
+	background: red;
+	vertical-align: bottom;
+	padding-top: 0px;
+	margin-top: 0px;
 }

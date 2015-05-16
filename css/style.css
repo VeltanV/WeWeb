@@ -1,0 +1,16 @@
+nav{
+	background: red;
+	text-align: left;
+}
+
+h5 {
+
+	background: blue;
+	font-size: 15
+}
+body{
+	text-align: center;
+}
+footer{
+	position: left;
+}

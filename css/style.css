@@ -1,28 +1,3 @@
-nav{
-	background: black;
-	text-align: left;
-	color: yellow;
-	/*border: dashed;*/
-	border-style: solid;
-}
-header{
-	vertical-align: top;
-	text-align: center;
-	color:blue;
-	width: 100px;
-	height: 50px;
-}
-
-h5 {
-
-	background: blue;
-	font-size: 15
-}
-body{
-	width: 1000px;
-
-	text-align: center;
-}
-footer{
-	position: left;
+#header {
+	background: green
 }

@@ -1,6 +1,11 @@
 nav{
 	background: red;
 	text-align: left;
+	color: yellow;
+}
+header{
+	text-align: center;
+	color:blue;
 }
 
 h5 {

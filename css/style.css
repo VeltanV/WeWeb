@@ -2,6 +2,7 @@ nav{
 	background: red;
 	text-align: left;
 	color: yellow;
+	border: dashed;
 }
 header{
 	text-align: center;

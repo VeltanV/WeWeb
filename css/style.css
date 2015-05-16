@@ -1,9 +1,5 @@
-nav{
-	background: black;
-	text-align: left;
-	color: yellow;
-	/*border: dashed;*/
-	border-style: solid;
+li{
+	display: inline
 }
 header{
 	vertical-align: top;
